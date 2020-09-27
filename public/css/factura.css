@@ -1,0 +1,482 @@
+@page {
+    margin: 0px 0px 0px 0px !important;
+    padding: 0px 0px 0px 0px !important;
+    color:#055cff;
+}
+
+.grupo0{
+    width: 100%;
+    height: 90.54330708661pt;
+    margin-left: 19.84251968504pt;
+    margin-top: 2.834645669291pt;
+}
+
+.logo{
+    height: 70.53543307087pt;
+    width: 225.2755905512pt;
+}
+
+.cuadro1{
+    height: 73.53543307087pt;
+    width: 235.2755905512pt;
+    float: left;
+}
+
+.cuadro2{
+    height: 76.53543307087pt;
+    width: 178.5826771654pt;
+    float: left;
+}
+
+.cuadro3{
+    height: 52.35433070866pt;
+    width: 178.5826771654pt;
+}
+
+.cuadro4{
+    border: 1px solid;
+    border-radius: 8px;
+    border-color:#055cff;
+    height: 28.34645669291pt;
+    width: 178.5826771654pt;
+}
+
+.contenido0{
+    font-size: 9.070866141732pt;
+    padding-top: 4px;
+    text-align: center;
+}
+
+.contenido2{
+    font-size: 10.070866141732pt;
+    margin-left: 4.251968503937pt;
+    margin-right: 4.251968503937pt;
+    padding-top: 7px;
+    text-align: center;
+}
+
+.contenido3{
+    font-size: 9.070866141732pt;
+    margin-left: 4.251968503937pt;
+    margin-right: 4.251968503937pt;
+    padding-top: 7px;
+}
+
+.grupo1{
+    width: 100%;
+    height: 56.69291338583pt;
+    margin-left: 19.84251968504pt;
+}
+
+.cuadro5{
+    border: 1px solid;
+    border-radius: 8px;
+    border-color:#055cff;
+    height: 56.69291338583pt;
+    width: 307.5590551181pt;
+    float: left;
+}
+
+.cuadro6{
+    border: 1px solid;
+    border-radius: 8px;
+    border-color:#055cff;
+    height: 56.69291338583pt;
+    width: 102.0472440945pt;
+    float: left;
+    margin-left: 5.669291338583pt;
+}
+
+.contenido4{
+    font-size: 9.070866141732pt;
+    margin-left: 10.77165354331pt;
+    margin-right: 9.070866141732pt;
+    margin-top: 6.236220472441pt;
+}
+
+.fecha{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    padding-bottom: 2px;
+}
+
+.pedido{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    margin-top: 6.236220472441pt;
+    padding-bottom: 2px;
+}
+
+.pedido1{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    margin-top: 5.669291338583pt;
+    padding-bottom: 2px;
+}
+
+.grupo2{
+    width: 100%;
+    height: 79.37007874016pt;
+    margin-left: 19.84251968504pt;
+    margin-top: 5.669291338583pt;
+}
+
+.cuadro7{
+    border: 1px solid;
+    border-radius: 8px;
+    border-color:#055cff;
+    height: 79.37007874016pt;
+    width: 307.5590551181pt;
+    float: left;
+}
+
+.cuadro8{
+    border: 1px solid;
+    border-radius: 8px;
+    border-color:#055cff;
+    height: 79.37007874016pt;
+    width: 102.0472440945pt;
+    float: left;
+    margin-left: 5.669291338583pt;
+}
+
+.contenido6{
+    font-size: 9.070866141732pt;
+    margin-left: 10.77165354331pt;
+    margin-right: 9.070866141732pt;
+    margin-top: 6.236220472441pt;   
+}
+
+.para{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    padding-bottom: 2px;
+}
+
+.de{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    margin-top: 6.236220472441pt;
+    padding-bottom: 2px;
+}
+
+.direccion{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    margin-top: 6.236220472441pt;
+    padding-bottom: 2px;
+}
+
+.direccion1{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    margin-top: 5.669291338583pt;
+    padding-bottom: 2px;
+}
+
+
+.grupo3{
+    width: 100%;
+    height: 79.37007874016pt;
+    margin-left: 19.84251968504pt;
+    margin-top: 5.669291338583pt;
+}
+
+.cuadro9{
+    border: 1px solid;
+    border-radius: 8px;
+    border-color:#055cff;
+    height: 79.37007874016pt;
+    width: 415.2755905512pt;
+    float: left;
+}
+
+.contenido8{
+    font-size: 9.070866141732pt;
+    margin-left: 10.77165354331pt;
+    margin-right: 9.070866141732pt;
+    margin-top: 6.236220472441pt;   
+}
+   
+.motivo{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    padding-bottom: 2px;
+}
+
+.motivo1{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    margin-top: 5.669291338583pt;
+    padding-bottom: 2px;
+}
+
+.motivo2{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    margin-top: 5.669291338583pt;
+    padding-bottom: 2px;
+}
+
+.nit{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    margin-top: 6.236220472441pt;
+    padding-bottom: 2px;
+}
+
+.grupo4{
+    border: 1px solid rgba(0, 0, 0, 0)4, 26, 24);
+    width: 100%;
+    height: 28.34645669291pt;
+    margin-left: 19.84251968504pt;
+    margin-top: 5.669291338583pt;
+}
+
+.cuadro10{
+    border: 1px solid;
+    border-radius: 8px;
+    border-color:#055cff;
+    height: 28.34645669291pt;
+    width: 155.905511811pt;
+    float: left;
+}
+
+.cuadro11{
+    border: 1px solid;
+    border-radius: 8px;
+    border-color:#055cff;
+    height: 28.34645669291pt;
+    width: 79.37007874016pt;
+    float: left;
+    margin-left: 5.669291338583pt;
+}
+
+.cuadro12{
+    border: 1px solid;
+    border-radius: 8px;
+    border-color:#055cff;
+    height: 28.34645669291pt;
+    width: 79.37007874016pt;
+    float: left;
+    margin-left: 5.669291338583pt;
+}
+
+.cuadro13{
+    border: 1px solid;
+    border-radius: 8px;
+    border-color:#055cff;
+    height: 28.34645669291pt;
+    width: 79.37007874016pt;
+    float: left;
+    margin-left: 5.669291338583pt;
+}
+
+.contenido9{
+    font-size: 9.070866141732pt;
+    font-size: 9.070866141732pt;
+    margin-left: 10.77165354331pt;
+    margin-right: 9.070866141732pt;
+    margin-top: 1.417322834646pt;   
+}
+
+.contenido10{
+    font-size: 9.070866141732pt;
+    text-align: center;
+    font-size: 9.070866141732pt;
+    margin-top: 1.417322834646pt;   
+}
+
+.contenido11{
+    font-size: 9.070866141732pt;
+    text-align: center;
+    font-size: 9.070866141732pt;
+    margin-top: 1.417322834646pt;   
+}
+
+.contenido12{
+    font-size: 9.070866141732pt;
+    text-align: center;
+    font-size: 9.070866141732pt;
+    margin-top: 1.417322834646pt;   
+}
+
+.grupo5{
+    border: 1px solid rgba(0, 0, 0, 0);
+    width: 100%;
+    height: 43.93700787402pt;
+}
+
+.informacion{
+    height: 20.93700787402pt;
+    border: 1px solid rgba(0, 0, 0, 0);
+    text-align: center;
+    font-size: 9.070866141732pt;
+}
+
+.divide{
+    position: relative;
+    height: 20.93700787402pt;
+    border: 1px solid rgba(0, 0, 0, 0);
+    font-size: 9.070866141732pt;
+}
+
+.logo1{
+    margin-left: 10px;
+    position: absolute;
+    top: 2%;
+    width: 16px;
+}
+
+hr{
+    position: absolute;
+    top: 2.4%;
+    width: 100%;
+    color: #055cff;
+    height: 1px;
+    border: 1px dashed;
+}
+
+.grupo6{
+    width: 100%;
+    height: 153.0708661417pt;
+    margin-left: 19.84251968504pt;
+}
+
+.cuadro15{
+    border: 1px solid;
+    border-radius: 8px;
+    border-color:#055cff;
+    height: 153.0708661417pt;
+    width: 415.2755905512pt;
+    float: left;
+}
+
+.contenido13{
+    font-size: 9.070866141732pt;
+    margin-left: 10.77165354331pt;
+    margin-right: 9.070866141732pt;
+    margin-top: 6.236220472441pt;
+}
+
+.fecha1{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    padding-bottom: 2px;
+}
+
+.responsable{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    margin-top: 6.236220472441pt;
+    padding-bottom: 2px;
+}
+
+.nit1{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    margin-top: 6.236220472441pt;
+    padding-bottom: 2px;
+}
+
+.direccionResidencia{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    margin-top: 6.236220472441pt;
+    padding-bottom: 2px;
+}
+
+.telefono{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    margin-top: 5.669291338583pt;
+    padding-bottom: 2px;
+}
+
+.direccionEmpresa{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    margin-top: 6.236220472441pt;
+    padding-bottom: 2px;
+}
+
+.telefono1{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    margin-top: 5.669291338583pt;
+    padding-bottom: 2px;
+}
+
+.ordeno{
+    border-bottom: 1px solid #055cff;
+    height: 9.92125984252pt;
+    margin-top: 6.236220472441pt;
+    padding-bottom: 2px;
+}
+
+.fechaC{
+    margin-left: 50px;
+}
+
+.grupo7{
+    width: 100%;
+    height: 36.85039370079pt;
+    margin-left: 19.84251968504pt;
+    margin-top: 5.669291338583pt;
+}
+
+.cuadro16{
+    border: 1px solid;
+    border-radius: 8px;
+    border-color:#055cff;
+    height: 36.85039370079pt;
+    width: 102.0472440945pt;
+    float: left;
+}
+
+.cuadro17{
+    border: 1px solid;
+    border-radius: 8px;
+    border-color:#055cff;
+    height: 36.85039370079pt;
+    width: 102.0472440945pt;
+    float: left;
+    margin-left: 5.669291338583pt;
+}
+
+.cuadro18{
+    border: 1px solid;
+    border-radius: 8px;
+    border-color:#055cff;
+    height: 36.85039370079;
+    width: 180pt;
+    float: left;
+    margin-left: 26.92913385827pt;
+}
+
+.contenido14{
+    font-size: 9.070866141732pt;
+    font-size: 9.070866141732pt;
+    margin-left: 10.77165354331pt;
+    margin-right: 9.070866141732pt;
+    margin-top: 1.417322834646pt;   
+}
+
+.contenido15{
+    font-size: 9.070866141732pt;
+    text-align: center;
+    font-size: 9.070866141732pt;
+    margin-top: 1.417322834646pt;   
+}
+
+.contenido16{
+    font-size: 9.070866141732pt;
+    margin-left: 5.251968503937pt;
+    margin-right: 4.251968503937pt;
+    padding-top: 14px;
+}
+
+.nroFactura{
+    color: red;
+    font-size: 13.070866141732pt;;
+}
