@@ -24,6 +24,14 @@ Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
 
 Route::get('/imprimir', [GenerarFacturaController::class, 'imprimir'])->name('imprimir');
 
+Route::get('/lista-facturas', [GenerarFacturaController::class, 'index'])->name('lista-facturas');
+
+Route::get('/nueva-factura', [GenerarFacturaController::class, 'create'])->name('nueva-factura');
+
 Route::get('/ejemplo', function () {
     return view('ejemplo');
 });
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
